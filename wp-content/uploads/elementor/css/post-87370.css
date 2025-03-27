@@ -1,0 +1,8 @@
+.elementor-kit-8{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-69d02c41:#4054B2;--e-global-color-413df9be:#23A455;--e-global-color-7b34a229:#000;--e-global-color-3020acba:#FFF;--e-global-typography-primary-font-family:"toyota";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"toyota";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"toyota";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"toyota";--e-global-typography-accent-font-weight:500;font-family:"toyota", Sans-serif;}.elementor-kit-8 a{font-family:"toyota", Sans-serif;}.elementor-kit-8 h1{font-family:"toyota", Sans-serif;}.elementor-kit-8 h3{font-family:"toyota", Sans-serif;}.elementor-kit-8 h4{font-family:"toyota", Sans-serif;}.elementor-kit-8 h6{font-family:"toyota", Sans-serif;}.elementor-kit-8 label{font-family:"toyota", Sans-serif;}.elementor-kit-8 input:not([type="button"]):not([type="submit"]),.elementor-kit-8 textarea,.elementor-kit-8 .elementor-field-textual{font-family:"toyota", Sans-serif;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'toyota';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2020/06/TOYOTADISPLAY_RG.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
